@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "BORRAR.sln"
+    "dotnet.defaultSolution": "PRIAProceduralInicial.sln"
 }
